@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Suhas 
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,16 +11,14 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/tildezero/notes
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+description: my notes and stuff - powered by quartz
 page_title:
-  "🪴 Quartz 3.3"
+  "suhas's garden"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Website
+    link: https://suhas.one
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/tildezero
