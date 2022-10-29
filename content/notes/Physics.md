@@ -1,6 +1,7 @@
 ---
 title: physics
 enableToc: false
+tags: school
 ---
 ## resources
 - [organic chemistry tutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
