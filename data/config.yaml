@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/tildezero/notes
+GitHubLink: https://github.com/tildezero/notes/tree/hugo/content/notes
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description: my notes and stuff - powered by quartz
