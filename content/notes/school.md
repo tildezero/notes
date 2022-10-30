@@ -1,5 +1,6 @@
 ---
 title: school
+enableToc: false
 ---
 - im currently a junior
 

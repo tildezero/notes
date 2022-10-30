@@ -1,7 +1,6 @@
 ---
 title: physics
 enableToc: false
-tags: school
 ---
 #school 
 ## resources
