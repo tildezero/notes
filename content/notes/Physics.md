@@ -3,6 +3,7 @@ title: physics
 enableToc: false
 tags: school
 ---
+#school 
 ## resources
 - [organic chemistry tutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
 - [flipping physics](https://www.flippingphysics.com)

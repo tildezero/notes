@@ -14,3 +14,4 @@ over time, i hope to build this up with as much knowledge as i can to become a r
 some pages i have here right now
 
 - [physics](notes/physics.md)
+- [coding](notes/coding.md)
