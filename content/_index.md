@@ -11,7 +11,7 @@ over time, i hope to build this up with as much knowledge as i can to become a r
 
 ## pages
 
-some pages i have here right now
+some starting points 
 
-- [physics](notes/physics.md)
+- [physics](notes/school/physics.md)
 - [coding](notes/coding.md)
