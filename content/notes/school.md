@@ -1,3 +1,6 @@
+---
+title: school
+---
 - im currently a junior
 
 ## my (important) classes
