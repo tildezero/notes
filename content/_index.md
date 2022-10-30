@@ -13,5 +13,5 @@ over time, i hope to build this up with as much knowledge as i can to become a r
 
 some starting points 
 
-- [physics](notes/school/physics.md)
+- [school](notes/school.md)
 - [coding](notes/coding.md)
